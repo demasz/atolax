@@ -1,0 +1,24 @@
+{
+  "name": "atolax",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/demasz/atolax#readme",
+  "bugs": {
+    "url": "https://github.com/demasz/atolax/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demasz/atolax.git"
+  },
+  "license": "ISC",
+  "author": "Guilherme Demarche de Sousa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
